@@ -1,6 +1,8 @@
-package com.example.ecomapp.model;
+package com.example.ecomapp.model.inventory;
 
-public class WeightMeasure extends Measure{
+import com.example.ecomapp.model.inventory.Measure;
+
+public class WeightMeasure extends Measure {
     Double weight;
     Double price;
 

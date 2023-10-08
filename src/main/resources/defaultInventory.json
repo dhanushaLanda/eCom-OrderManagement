@@ -1,0 +1,32 @@
+{
+  "categoryProductMap": {
+    "SWEET": [{
+      "title": "Bhundhi Laddu",
+      "description": "combining lovely little bits of fried and sugar-soaked batter (made with gram flour/besan) with seeds and fragrant spices",
+      "id": "1234"
+    },
+      {
+        "title": "RavvaLaddu",
+        "description": "made by grinding husked wheat and is used in Indian cuisine to make savoury dishes such as rava dosa, rava idli, upma, and khichdis",
+        "id": "1235"
+      },
+      {
+        "title": "Arisalu",
+        "description": "Arisa is an Indian sweet from Andhra Pradesh, Odisha, Telangana",
+        "id": "1235"
+      }
+    ]
+  },
+  "location": {
+    "longitude": "1273123",
+    "latitude": "12312312"
+  },
+  "user": {
+    "name": "Admin",
+    "id": "admin123",
+    "location": {
+      "longitude": "1273123",
+      "latitude": "12312312"
+    }
+  }
+}

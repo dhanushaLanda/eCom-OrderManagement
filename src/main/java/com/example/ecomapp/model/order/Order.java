@@ -1,6 +1,4 @@
-package com.example.ecomapp.model;
-
-import java.util.List;
+package com.example.ecomapp.model.order;
 
 public class Order {
     String id;
